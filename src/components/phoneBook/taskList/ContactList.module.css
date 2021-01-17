@@ -1,0 +1,13 @@
+.contactsItem {
+  display: flex;
+  align-items: baseline;
+}
+
+.contactsText {
+  margin-top: 5px;
+  margin-right: 10px;
+}
+
+ul {
+  margin-left: 100px;
+}
