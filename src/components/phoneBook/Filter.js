@@ -6,6 +6,5 @@ export default function Filter({ filter, onChange }) {
       Find contacts by name
       <input type="text" value={filter} onChange={onChange} />
     </label>
-    // console.log(filter);
   );
 }
